@@ -51,3 +51,14 @@ The React Analogy: Think of javac like Babel or the TypeScript compiler (tsc). I
 What it is: This is the execution engine. It takes that compiled Bytecode (.class file) and translates it into machine code that your M3 Mac's processor understands, running your application.
 
 The React Analogy: Think of the java command like running node dist/index.js or loading your bundled code into a browser engine.
+
+<img width="731" height="465" alt="Screenshot 2026-05-29 at 7 49 44 AM" src="https://github.com/user-attachments/assets/e595db6e-5429-48d9-9eee-c078d806caf9" />
+
+
+🛠️ Understanding What You Just Checked
+In JavaScript, Node just runs your code. Java uses a two-step process, which is why you checked two different commands:
+
+javac (The Compiler): This takes your human-readable .java file and compiles it into .class files containing "Bytecode".
+
+java (The JVM): This is the execution engine. It takes that Bytecode and runs it on your Mac.
+
